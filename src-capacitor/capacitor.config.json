@@ -1,0 +1,7 @@
+{
+  "appId": "com.onmywaytexts",
+  "appName": "On My Way!",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
